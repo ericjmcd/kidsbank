@@ -1,2 +1,2 @@
-# save_spend_give
+# kidsbank
 Allowance tracker for kids
